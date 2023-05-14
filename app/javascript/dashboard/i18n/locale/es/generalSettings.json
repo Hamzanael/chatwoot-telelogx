@@ -47,7 +47,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Ahora puede recibir emails en su dominio personalizado."
       }
     },
-    "UPDATE_CHATWOOT": "Hay una actualización %{latestChatwootVersion} para SocialSync disponible. Por favor, actualiza tu instancia.",
+    "UPDATE_CHATWOOT": "Hay una actualización %{latestChatwootVersion} para Mokhatbat disponible. Por favor, actualiza tu instancia.",
     "LEARN_MORE": "Más información"
   },
   "FORMS": {
@@ -88,7 +88,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Desconectado de SocialSync"
+      "TEXT": "Desconectado de Mokhatbat"
     },
     "BUTTON": {
       "REFRESH": "Actualizar"

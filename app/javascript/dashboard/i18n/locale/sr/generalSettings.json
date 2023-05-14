@@ -47,7 +47,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Sada možete da dobijate e-poruke u vaš prilagođeni domen."
       }
     },
-    "UPDATE_CHATWOOT": "Dostupna je nadogradnja %{latestChatwootVersion} za SocialSync. Molim vas nadogradite vaše izdanje.",
+    "UPDATE_CHATWOOT": "Dostupna je nadogradnja %{latestChatwootVersion} za Mokhatbat. Molim vas nadogradite vaše izdanje.",
     "LEARN_MORE": "Saznajte više"
   },
   "FORMS": {
@@ -88,7 +88,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Prekini vezu sa SocialSync"
+      "TEXT": "Prekini vezu sa Mokhatbat"
     },
     "BUTTON": {
       "REFRESH": "Osveži"
