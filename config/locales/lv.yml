@@ -150,7 +150,7 @@ lv:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte ir rīks, kas lietojumprogrammai palīdz pievienot audio un video tiešraidi, izmantojot tikai dažas koda rindiņas. Šī integrācija ļauj piedāvāt iespēju Jūsu aģentiem veikt video vai balss zvanu ar klientiem, neizejot no SocialSync."
+      description: "Dyte ir rīks, kas lietojumprogrammai palīdz pievienot audio un video tiešraidi, izmantojot tikai dažas koda rindiņas. Šī integrācija ļauj piedāvāt iespēju Jūsu aģentiem veikt video vai balss zvanu ar klientiem, neizejot no Mokhatbat."
       meeting_name: "%{agent_name} ir sācis sapulci"
     slack:
       name: "Slack"

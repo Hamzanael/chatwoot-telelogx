@@ -150,14 +150,14 @@ de:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte ist ein Tool, mit dem Sie Live-Audio & Video zu Ihrer Anwendung mit nur wenigen Zeilen Code hinzufügen können. Mit dieser Integration können Sie Ihren Agenten die Möglichkeit geben, einen Video- oder Sprachanruf mit Ihren Kunden zu führen, ohne SocialSync zu verlassen."
+      description: "Dyte ist ein Tool, mit dem Sie Live-Audio & Video zu Ihrer Anwendung mit nur wenigen Zeilen Code hinzufügen können. Mit dieser Integration können Sie Ihren Agenten die Möglichkeit geben, einen Video- oder Sprachanruf mit Ihren Kunden zu führen, ohne Mokhatbat zu verlassen."
       meeting_name: "%{agent_name} hat ein Meeting begonnen"
     slack:
       name: "Slack"
       description: "Slack ist ein Chat-Tool, das all deine Kommunikation an einem Ort zusammenbringt. Durch die Integration von Slack kannst du über alle neuen Unterhaltungen in deinem Account direkt in deinem Slack benachrichtigt werden."
     webhooks:
       name: "Webhooks"
-      description: "Webhook-Ereignisse bieten Ihnen Echtzeitinformationen darüber, was in Ihrem SocialSync-Konto passiert. Sie können die Webhooks verwenden, um die Ereignisse an Ihre Lieblings-Apps wie Slack oder Github zu kommunizieren. Klicken Sie auf Konfigurieren, um Ihre Webhooks einzurichten."
+      description: "Webhook-Ereignisse bieten Ihnen Echtzeitinformationen darüber, was in Ihrem Mokhatbat-Konto passiert. Sie können die Webhooks verwenden, um die Ereignisse an Ihre Lieblings-Apps wie Slack oder Github zu kommunizieren. Klicken Sie auf Konfigurieren, um Ihre Webhooks einzurichten."
     dialogflow:
       name: "Dialogflow"
       description: "Erstellen Sie Chatbots mit Dialogflow und verbinden Sie diesen mit Ihrem Posteingang. Lassen Sie die Bots Anfragen bearbeiten, bevor Sie an einen Kundendienst-Agent weitergeben werden."

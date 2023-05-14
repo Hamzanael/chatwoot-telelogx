@@ -40,12 +40,12 @@ jobs:
 
       - name: set docker tag
         run: |
-          echo "DOCKER_TAG=crocotech/chatwoot:$GIT_REF-ce" >> $GITHUB_ENV
+          echo "DOCKER_TAG=crocotech/chatwoot:$GIT_REF-ce-telelogx" >> $GITHUB_ENV
           echo "secret is ${{ secrets.USERNAME }}"
       - name: replace docker tag if master
         if: github.ref_name == 'master'
         run: |
-          echo "DOCKER_TAG=crocotech/chatwoot:latest-ce" >> $GITHUB_ENV
+          echo "DOCKER_TAG=crocotech/chatwoot:latest-ce-telelogx" >> $GITHUB_ENV
 
       - name: Login to DockerHub
         uses: docker/login-action@v2

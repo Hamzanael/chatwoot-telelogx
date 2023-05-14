@@ -150,7 +150,7 @@ pt_BR:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte é uma ferramenta que ajuda você a adicionar áudio e vídeo ao vivo em sua aplicação com apenas algumas linhas de código. Essa integração permite dar uma opção aos seus agentes para ter uma chamada de vídeo ou voz com os seus clientes sem sair do SocialSync."
+      description: "Dyte é uma ferramenta que ajuda você a adicionar áudio e vídeo ao vivo em sua aplicação com apenas algumas linhas de código. Essa integração permite dar uma opção aos seus agentes para ter uma chamada de vídeo ou voz com os seus clientes sem sair do Mokhatbat."
       meeting_name: "%{agent_name} começou a reunião"
     slack:
       name: "Slack"

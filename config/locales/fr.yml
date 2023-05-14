@@ -150,7 +150,7 @@ fr:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte est un outil qui vous aide à ajouter de l'audio et de la vidéo en direct à votre application avec seulement quelques lignes de code. Cette intégration vous permet de donner une option à vos agents de passer un appel vidéo ou vocal avec vos clients sans quitter SocialSync."
+      description: "Dyte est un outil qui vous aide à ajouter de l'audio et de la vidéo en direct à votre application avec seulement quelques lignes de code. Cette intégration vous permet de donner une option à vos agents de passer un appel vidéo ou vocal avec vos clients sans quitter Mokhatbat."
       meeting_name: "%{agent_name} a démarré une réunion"
     slack:
       name: "Slack"
