@@ -47,7 +47,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "You can receive emails in your custom domain now."
       }
     },
-    "UPDATE_CHATWOOT": "An update %{latestChatwootVersion} for Chatwoot is available. Please update your instance.",
+    "UPDATE_CHATWOOT": "An update %{latestChatwootVersion} for Mokhatbat is available. Please update your instance.",
     "LEARN_MORE": "Sužinoti daugiau"
   },
   "FORMS": {
@@ -88,7 +88,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Atsijungti nuo Chatwoot"
+      "TEXT": "Atsijungti nuo Mokhatbat"
     },
     "BUTTON": {
       "REFRESH": "Atnaujinti"

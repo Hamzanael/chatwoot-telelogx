@@ -363,7 +363,7 @@
         "SLUG": {
           "LABEL": "Slug",
           "PLACEHOLDER": "Kategorijas slug priekš URL",
-          "HELP_TEXT": "app.chatwoot.com/hc/my-portal/en-US/categories/my-slug",
+          "HELP_TEXT": "app.Mokhatbat.com/hc/my-portal/en-US/categories/my-slug",
           "ERROR": "Nepieciešams slug"
         },
         "DESCRIPTION": {
@@ -394,7 +394,7 @@
         "SLUG": {
           "LABEL": "Slug",
           "PLACEHOLDER": "Kategorijas slug priekš URL",
-          "HELP_TEXT": "app.chatwoot.com/hc/my-portal/en-US/categories/my-slug",
+          "HELP_TEXT": "app.Mokhatbat.com/hc/my-portal/en-US/categories/my-slug",
           "ERROR": "Nepieciešams slug"
         },
         "DESCRIPTION": {
