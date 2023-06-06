@@ -45,7 +45,7 @@ describe('#actions', () => {
         { commit },
         {
           websiteToken: 'XDsafmADasd',
-          currentURL: 'https://www.chatwoot.com',
+          currentURL: 'https://www.mokhatbat.com',
           isInBusinessHours: true,
         }
       );

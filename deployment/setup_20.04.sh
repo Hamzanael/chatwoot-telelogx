@@ -9,7 +9,7 @@ set -eu -o errexit -o pipefail -o noclobber -o nounset
 
 # -allow a command to fail with !’s side effect on errexit
 # -use return value from ${PIPESTATUS[0]}, because ! hosed $?
-! getopt --test > /dev/null 
+! getopt --test > /dev/null
 if [[ ${PIPESTATUS[0]} -ne 4 ]]; then
     echo '`getopt --test` failed in this environment.'
     exit 1
@@ -554,7 +554,7 @@ Woot! Woot!! Chatwoot server installation is complete.
 The server will be accessible at http://$public_ip:3000
 
 To configure a domain and SSL certificate, follow the guide at
-https://www.chatwoot.com/docs/deployment/deploy-chatwoot-in-linux-vm?utm_source=cwctl
+https://www.mokhatbat.com/docs/deployment/deploy-chatwoot-in-linux-vm?utm_source=cwctl
 
 Join the community at https://chatwoot.com/community?utm_source=cwctl
 ***************************************************************************
@@ -633,7 +633,7 @@ Management:
   -c, --console             Open ruby console
   -l, --logs                View logs from Chatwoot. Supported values include web/worker.
   -r, --restart             Restart Chatwoot server
-  
+
 Miscellaneous:
   -d, --debug               Show debug messages
   -v, --version             Display version information
@@ -847,7 +847,7 @@ function main() {
   if [ "$c" == "y" ]; then
     get_console
   fi
-  
+
   if [ "$h" == "y" ]; then
     help
   fi
@@ -863,7 +863,7 @@ function main() {
   if [ "$r" == "y" ]; then
     restart
   fi
-  
+
   if [ "$s" == "y" ]; then
     ssl
   fi

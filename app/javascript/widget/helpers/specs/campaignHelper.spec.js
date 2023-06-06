@@ -48,13 +48,13 @@ describe('#Campaigns Helper', () => {
           id: 1,
           timeOnPage: 3,
           triggerOnlyDuringBusinessHours: false,
-          url: 'https://www.chatwoot.com/pricing',
+          url: 'https://www.mokhatbat.com/pricing',
         },
         {
           id: 2,
           triggerOnlyDuringBusinessHours: false,
           timeOnPage: 6,
-          url: 'https://www.chatwoot.com/about',
+          url: 'https://www.mokhatbat.com/about',
         },
       ]);
     });
@@ -67,23 +67,23 @@ describe('#Campaigns Helper', () => {
             {
               id: 1,
               timeOnPage: 3,
-              url: 'https://www.chatwoot.com/pricing',
+              url: 'https://www.mokhatbat.com/pricing',
               triggerOnlyDuringBusinessHours: false,
             },
             {
               id: 2,
               timeOnPage: 6,
-              url: 'https://www.chatwoot.com/about',
+              url: 'https://www.mokhatbat.com/about',
               triggerOnlyDuringBusinessHours: false,
             },
           ],
-          currentURL: 'https://www.chatwoot.com/about/',
+          currentURL: 'https://www.mokhatbat.com/about/',
         })
       ).toStrictEqual([
         {
           id: 2,
           timeOnPage: 6,
-          url: 'https://www.chatwoot.com/about',
+          url: 'https://www.mokhatbat.com/about',
           triggerOnlyDuringBusinessHours: false,
         },
       ]);
@@ -95,24 +95,24 @@ describe('#Campaigns Helper', () => {
             {
               id: 1,
               timeOnPage: 3,
-              url: 'https://www.chatwoot.com/pricing',
+              url: 'https://www.mokhatbat.com/pricing',
               triggerOnlyDuringBusinessHours: false,
             },
             {
               id: 2,
               timeOnPage: 6,
-              url: 'https://www.chatwoot.com/about',
+              url: 'https://www.mokhatbat.com/about',
               triggerOnlyDuringBusinessHours: true,
             },
           ],
-          currentURL: 'https://www.chatwoot.com/about/',
+          currentURL: 'https://www.mokhatbat.com/about/',
           isInBusinessHours: true,
         })
       ).toStrictEqual([
         {
           id: 2,
           timeOnPage: 6,
-          url: 'https://www.chatwoot.com/about',
+          url: 'https://www.mokhatbat.com/about',
           triggerOnlyDuringBusinessHours: true,
         },
       ]);
@@ -124,17 +124,17 @@ describe('#Campaigns Helper', () => {
             {
               id: 1,
               timeOnPage: 3,
-              url: 'https://www.chatwoot.com/pricing',
+              url: 'https://www.mokhatbat.com/pricing',
               triggerOnlyDuringBusinessHours: true,
             },
             {
               id: 2,
               timeOnPage: 6,
-              url: 'https://www.chatwoot.com/about',
+              url: 'https://www.mokhatbat.com/about',
               triggerOnlyDuringBusinessHours: true,
             },
           ],
-          currentURL: 'https://www.chatwoot.com/about/',
+          currentURL: 'https://www.mokhatbat.com/about/',
           isInBusinessHours: false,
         })
       ).toStrictEqual([]);
