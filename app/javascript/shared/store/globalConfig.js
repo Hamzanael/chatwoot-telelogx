@@ -36,7 +36,7 @@ const state = {
   displayManifest,
   gitSha,
   hCaptchaSiteKey,
-  installationName,
+  installationName:"Mokhatbat",
   logo,
   logoThumbnail,
   privacyURL,
