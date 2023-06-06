@@ -154,14 +154,14 @@ pt:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte is tool that helps you to add live audio & video to your application with just a few lines of code. This integration allows you to give an option to your agents to have a video or voice call with your customers from without leaving Chatwoot."
+      description: "Dyte is tool that helps you to add live audio & video to your application with just a few lines of code. This integration allows you to give an option to your agents to have a video or voice call with your customers from without leaving Mokhatbat."
       meeting_name: "%{agent_name} has started a meeting"
     slack:
       name: "Slack"
       description: "Slack é uma ferramenta de chat que junta num só lugar todas as suas comunicações. Ao integrar o Slack com a sua conta, pode ser notificado de todas as novas conversas diretamente no seu Slack."
     webhooks:
       name: "Webhooks"
-      description: "Os eventos Webhook fornecem informações em tempo real sobre o que está a acontecer na sua conta Chatwoot. Pode utilizar os Webhooks para comunicar eventos com as suas aplicações favoritas como o Slack ou o Github. Clique em Configurar para configurar os seus Webhooks."
+      description: "Os eventos Webhook fornecem informações em tempo real sobre o que está a acontecer na sua conta Mokhatbat. Pode utilizar os Webhooks para comunicar eventos com as suas aplicações favoritas como o Slack ou o Github. Clique em Configurar para configurar os seus Webhooks."
     dialogflow:
       name: "Dialogflow"
       description: "Construa chatbots utilizando o Dialogflow e ligue-os rapidamente à sua caixa de entrada. Deixe os robost \"bots\" tratarem das consultas dos seus contatos antes de as entregar aos seus agentes de atendimento."
@@ -173,7 +173,7 @@ pt:
       description: "Make it easier for agents to translate messages by adding a Google Translate Integration. Google translate helps to identify the language automatically and convert it to the language chosen by the agent/account admin."
     openai:
       name: "OpenAI"
-      description: "Integrate powerful AI features into Chatwoot by leveraging the GPT models from OpenAI."
+      description: "Integrate powerful AI features into Mokhatbat by leveraging the GPT models from OpenAI."
   public_portal:
     search:
       search_placeholder: Search for article by title or body...

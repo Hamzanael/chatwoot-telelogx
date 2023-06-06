@@ -11,7 +11,7 @@
 - name: WIDGET_BRAND_URL
   value: 'https://www.mokhatbat.com'
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'Mokhatbat'
 - name: TERMS_URL
   value: 'https://www.mokhatbat.com/terms-of-service'
 - name: PRIVACY_URL
