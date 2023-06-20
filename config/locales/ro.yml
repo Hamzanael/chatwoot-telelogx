@@ -158,7 +158,7 @@ ro:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte este un instrument care vă ajută să adăugați audio și video live la aplicația dvs., cu doar câteva linii de cod. Această integrare vă permite să oferiți o opțiune agenților dumneavoastră de a efectua un apel video sau vocal cu clienții dvs., fără a părăsi Chatwoot."
+      description: "Dyte este un instrument care vă ajută să adăugați audio și video live la aplicația dvs., cu doar câteva linii de cod. Această integrare vă permite să oferiți o opțiune agenților dumneavoastră de a efectua un apel video sau vocal cu clienții dvs., fără a părăsi Mokhatbat."
       meeting_name: "%{agent_name} a început o întâlnire"
     slack:
       name: "Slack"

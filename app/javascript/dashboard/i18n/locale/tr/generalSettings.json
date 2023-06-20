@@ -49,8 +49,8 @@
     },
     "UPDATE_CHATWOOT": "%{latestChatwootVersion} chatwoot sürümü indirilebilir. Lütfen sürümü güncelleyin.",
     "LEARN_MORE": "Daha fazla",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
     "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
@@ -91,7 +91,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Chatwoot ile bağlantı kesildi"
+      "TEXT": "Mokhatbat ile bağlantı kesildi"
     },
     "BUTTON": {
       "REFRESH": "Yenile"
