@@ -38,6 +38,8 @@ ro:
     contacts:
       import:
         failed: Fișierul este necompletat
+      export:
+        success: Vă vom anunța imediat ce fișierul de export al contactelor este gata de vizualizare.
       email:
         invalid: E-mail invalid
       phone_number:
@@ -56,6 +58,8 @@ ro:
         connection_closed_error: Conexiune închisă.
       validations:
         name: nu ar trebui să înceapă sau să se termine cu simboluri și nu ar trebui să aibă < > / \ @ caractere.
+    custom_filters:
+      number_of_records: Limita atinsă. Numărul maxim de filtre personalizate permise pentru un utilizator per cont este de 50.
   reports:
     period: Perioada de raportare %{since}-%{until}
     utc_warning: Raportul generat este în fusul orar UTC
@@ -154,7 +158,7 @@ ro:
   integration_apps:
     dyte:
       name: "Dyte"
-      description: "Dyte este un instrument care vă ajută să adăugați audio și video live la aplicația dvs., cu doar câteva linii de cod. Această integrare vă permite să oferiți o opțiune agenților dumneavoastră de a efectua un apel video sau vocal cu clienții dvs., fără a părăsi Mokhatbat."
+      description: "Dyte este un instrument care vă ajută să adăugați audio și video live la aplicația dvs., cu doar câteva linii de cod. Această integrare vă permite să oferiți o opțiune agenților dumneavoastră de a efectua un apel video sau vocal cu clienții dvs., fără a părăsi Chatwoot."
       meeting_name: "%{agent_name} a început o întâlnire"
     slack:
       name: "Slack"
@@ -180,11 +184,12 @@ ro:
       empty_placeholder: Niciun rezultat găsit.
       loading_placeholder: In căutare...
       results_title: Rezultate căutare pentru
+    toc_header: 'Pe această pagină'
     hero:
       sub_title: Căutați articolele aici sau răsfoiți categoriile de mai jos.
     common:
       home: Acasa
-      last_updated_on: Participanții au actualizat!
+      last_updated_on: Ultima actualizare pe %{last_updated_on}
       view_all_articles: Vezi toate articolele
       article: articol
       articles: articole

@@ -47,8 +47,11 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Тепер ви можете отримувати електронні листи на власний домен."
       }
     },
-    "UPDATE_CHATWOOT": "Доступне оновлення %{latestChatwootVersion} для Mokhatbat. Будь ласка, оновіть вашу копію.",
-    "LEARN_MORE": "Детальніше"
+    "UPDATE_CHATWOOT": "Доступне оновлення %{latestChatwootVersion} для Chatwoot. Будь ласка, оновіть вашу копію.",
+    "LEARN_MORE": "Детальніше",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
+    "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
     "MULTISELECT": {
@@ -88,7 +91,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Відключено від Mokhatbat"
+      "TEXT": "Відключено від Chatwoot"
     },
     "BUTTON": {
       "REFRESH": "Оновити"

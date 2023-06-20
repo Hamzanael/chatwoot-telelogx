@@ -47,8 +47,11 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Artık özel alan adınızda e-postalar alabilirsiniz."
       }
     },
-    "UPDATE_CHATWOOT": "%{latestChatwootVersion} Mokhatbat sürümü indirilebilir. Lütfen sürümü güncelleyin.",
-    "LEARN_MORE": "Daha fazla"
+    "UPDATE_CHATWOOT": "%{latestChatwootVersion} chatwoot sürümü indirilebilir. Lütfen sürümü güncelleyin.",
+    "LEARN_MORE": "Daha fazla",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
+    "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
     "MULTISELECT": {
@@ -88,7 +91,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Mokhatbat ile bağlantı kesildi"
+      "TEXT": "Chatwoot ile bağlantı kesildi"
     },
     "BUTTON": {
       "REFRESH": "Yenile"
