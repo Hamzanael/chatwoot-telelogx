@@ -141,7 +141,10 @@
       "SNOOZE_CONVERSATION": "Відкласти розмову",
       "UNTIL_NEXT_REPLY": "До наступної відповіді",
       "UNTIL_NEXT_WEEK": "До наступного тижня",
-      "UNTIL_TOMORROW": "До завтра"
+      "UNTIL_TOMORROW": "До завтра",
+      "UNTIL_NEXT_MONTH": "Until next month",
+      "AN_HOUR_FROM_NOW": "Until an hour from now",
+      "CUSTOM": "Custom..."
     }
   },
   "DASHBOARD_APPS": {

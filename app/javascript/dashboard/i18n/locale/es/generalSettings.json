@@ -47,7 +47,7 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Ahora puede recibir emails en su dominio personalizado."
       }
     },
-    "UPDATE_CHATWOOT": "Hay una actualización %{latestChatwootVersion} para Mokhatbat disponible. Por favor, actualiza tu instancia.",
+    "UPDATE_CHATWOOT": "Hay una actualización %{latestChatwootVersion} para Chatwoot disponible. Por favor, actualiza tu instancia.",
     "LEARN_MORE": "Más información",
     "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
     "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
@@ -141,7 +141,10 @@
       "SNOOZE_CONVERSATION": "Posponer conversación",
       "UNTIL_NEXT_REPLY": "Hasta la siguiente respuesta",
       "UNTIL_NEXT_WEEK": "Hasta la próxima semana",
-      "UNTIL_TOMORROW": "Hasta mañana"
+      "UNTIL_TOMORROW": "Hasta mañana",
+      "UNTIL_NEXT_MONTH": "Hasta el mes próximo",
+      "AN_HOUR_FROM_NOW": "Hasta una hora a partir de ahora",
+      "CUSTOM": "Personalizar..."
     }
   },
   "DASHBOARD_APPS": {
