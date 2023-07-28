@@ -105,7 +105,7 @@ GEM
       activerecord (>= 6.0, < 7.1)
     addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
-    administrate (0.19.0)
+    administrate (0.18.0)
       actionpack (>= 5.0)
       actionview (>= 5.0)
       activerecord (>= 5.0)
@@ -829,7 +829,7 @@ DEPENDENCIES
   active_record_query_trace
   activerecord-import
   acts-as-taggable-on
-  administrate (>= 0.19.0)
+  administrate
   administrate-field-active_storage
   annotate
   attr_extras
