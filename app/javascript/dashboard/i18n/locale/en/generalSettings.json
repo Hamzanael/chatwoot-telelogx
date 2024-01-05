@@ -93,6 +93,7 @@
   "NETWORK": {
     "NOTIFICATION": {
       "TEXT": "Disconnected from Mokhatbat"
+      "OFFLINE": "Offline"
     },
     "BUTTON": {
       "REFRESH": "Refresh"
