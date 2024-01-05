@@ -50,9 +50,9 @@
     },
     "UPDATE_CHATWOOT": "Hay una actualización %{latestChatwootVersion} para Mokhatbat disponible. Por favor, actualiza tu instancia.",
     "LEARN_MORE": "Más información",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
-    "OPEN_BILLING": "Open billing"
+    "PAYMENT_PENDING": "Tu pago está pendiente. Por favor actualiza tu información de pago para seguir usando Mokhatbat",
+    "LIMITS_UPGRADE": "Su cuenta ha excedido los límites de uso, por favor actualice su plan para seguir usando Mokhatbat",
+    "OPEN_BILLING": "Abrir facturación"
   },
   "FORMS": {
     "MULTISELECT": {
@@ -107,6 +107,7 @@
       "CHANGE_ASSIGNEE": "Cambiar Asignado",
       "CHANGE_PRIORITY": "Cambiar prioridad",
       "CHANGE_TEAM": "Cambiar equipo",
+      "SNOOZE_CONVERSATION": "Posponer conversación",
       "ADD_LABEL": "Añadir etiqueta a la conversación",
       "REMOVE_LABEL": "Eliminar etiqueta de la conversación",
       "SETTINGS": "Ajustes",

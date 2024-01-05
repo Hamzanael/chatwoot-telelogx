@@ -50,8 +50,8 @@
     },
     "UPDATE_CHATWOOT": "Доступне оновлення %{latestChatwootVersion} для Mokhatbat. Будь ласка, оновіть вашу копію.",
     "LEARN_MORE": "Детальніше",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
+    "PAYMENT_PENDING": "Очікується ваш платіж. Будь ласка, оновіть вашу платіжну інформацію, щоб продовжити використовувати Mokhatbat",
+    "LIMITS_UPGRADE": "В вашому обліковому записі перевищено ліміт використання, будь ласка, поновіть ваш план, щоб продовжити використання Mokhatbat",
     "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
@@ -107,6 +107,7 @@
       "CHANGE_ASSIGNEE": "Змінити виконавця",
       "CHANGE_PRIORITY": "Змінити пріоритет",
       "CHANGE_TEAM": "Змінити команду",
+      "SNOOZE_CONVERSATION": "Відкласти розмову",
       "ADD_LABEL": "Додати мітку до діалогу",
       "REMOVE_LABEL": "Видалити мітку з діалогу",
       "SETTINGS": "Налаштування",
