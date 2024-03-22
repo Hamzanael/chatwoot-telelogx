@@ -51,11 +51,16 @@
   description: 'The privacy policy URL displayed in the app'
 - name: DISPLAY_MANIFEST
   value: true
-- name: MAILER_INBOUND_EMAIL_DOMAIN
-  value:
-  locked: false
-- name: MAILER_SUPPORT_EMAIL
-  value:
+  display_title: 'Chatwoot Metadata'
+  description: 'Display default Chatwoot metadata like favicons and upgrade warnings'
+  type: boolean
+# ------- End of Branding Related Config ------- #
+
+# ------- Signup & Account Related Config ------- #
+- name: ENABLE_ACCOUNT_SIGNUP
+  display_title: 'Enable Account Signup'
+  value: false
+  description: 'Allow users to signup for new accounts'
   locked: false
   type: boolean
 - name: CREATE_NEW_ACCOUNT_FROM_DASHBOARD
