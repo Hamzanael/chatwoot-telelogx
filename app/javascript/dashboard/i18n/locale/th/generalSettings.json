@@ -48,10 +48,10 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "คุณสามารถรับอีเมล์ในโดเมนเเบบกำหนดเองได้เเล้ว"
       }
     },
-    "UPDATE_CHATWOOT": "Mokhatbat เวอร์ชั่น %{latestChatwootVersion} พร้อมสำหรับการอัปเดต กรุณาอัปเดตเวอร์ชั่นของคุณ",
+    "UPDATE_CHATWOOT": "Chatwoot เวอร์ชั่น %{latestChatwootVersion} พร้อมสำหรับการอัปเดต กรุณาอัปเดตเวอร์ชั่นของคุณ",
     "LEARN_MORE": "เรียนรู้เพิ่มเติม",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
     "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
@@ -92,7 +92,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "ยกเลิกการเชื่อมต่อกับ Mokhatbat"
+      "OFFLINE": "ออฟไลน์"
     },
     "BUTTON": {
       "REFRESH": "โหลดใหม่"
@@ -112,7 +112,8 @@
       "REMOVE_LABEL": "ลบป้ายกำกับออกจากการสนทนา",
       "SETTINGS": "ตั้งค่า",
       "AI_ASSIST": "AI Assist",
-      "APPEARANCE": "Appearance"
+      "APPEARANCE": "Appearance",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     },
     "COMMANDS": {
       "GO_TO_CONVERSATION_DASHBOARD": "ไปยังแดชบอร์ดการสนทนา",
@@ -153,7 +154,8 @@
       "CHANGE_APPEARANCE": "Change Appearance",
       "LIGHT_MODE": "Light",
       "DARK_MODE": "Dark",
-      "SYSTEM_MODE": "System"
+      "SYSTEM_MODE": "System",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     }
   },
   "DASHBOARD_APPS": {

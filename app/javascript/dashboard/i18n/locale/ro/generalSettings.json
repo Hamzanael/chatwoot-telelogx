@@ -48,10 +48,10 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Puteți primi e-mailuri în domeniul dvs. personalizat acum."
       }
     },
-    "UPDATE_CHATWOOT": "Este disponibilă o actualizare %{latestChatwootVersion} pentru Mokhatbat. Vă rugăm să actualizați instanța.",
+    "UPDATE_CHATWOOT": "Este disponibilă o actualizare %{latestChatwootVersion} pentru Chatwoot. Vă rugăm să actualizați instanța.",
     "LEARN_MORE": "Află mai mult",
-    "PAYMENT_PENDING": "Plata dvs. este în așteptare. Vă rugăm să actualizați informațiile de plată pentru a continua să utilizați Mokhatbat",
-    "LIMITS_UPGRADE": "Contul dvs. a depășit limitele de utilizare, vă rugăm să vă actualizați planul pentru a continua să utilizați Mokhatbat",
+    "PAYMENT_PENDING": "Plata dvs. este în așteptare. Vă rugăm să actualizați informațiile de plată pentru a continua să utilizați Chatwoot",
+    "LIMITS_UPGRADE": "Contul dvs. a depășit limitele de utilizare, vă rugăm să vă actualizați planul pentru a continua să utilizați Chatwoot",
     "OPEN_BILLING": "Deschide facturarea"
   },
   "FORMS": {
@@ -92,7 +92,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Oferit de Mokhatbat"
+      "OFFLINE": "Deconectat"
     },
     "BUTTON": {
       "REFRESH": "Reîmprospătare"
@@ -112,7 +112,8 @@
       "REMOVE_LABEL": "Eliminarea etichetei din conversație",
       "SETTINGS": "Setări",
       "AI_ASSIST": "AI Assist",
-      "APPEARANCE": "Appearance"
+      "APPEARANCE": "Appearance",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     },
     "COMMANDS": {
       "GO_TO_CONVERSATION_DASHBOARD": "Accesați Tabloul de bord conversație",
@@ -153,7 +154,8 @@
       "CHANGE_APPEARANCE": "Change Appearance",
       "LIGHT_MODE": "Light",
       "DARK_MODE": "Dark",
-      "SYSTEM_MODE": "Sistem"
+      "SYSTEM_MODE": "Sistem",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     }
   },
   "DASHBOARD_APPS": {

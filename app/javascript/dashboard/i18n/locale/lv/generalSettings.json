@@ -48,10 +48,10 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Tagad Jūs varat saņemt e-pasta ziņojumus savā pielāgotajā domēnā."
       }
     },
-    "UPDATE_CHATWOOT": "Ir pieejams Mokhatbat %{latestChatwootVersion} jauninājums. Lūdzu, atjauniniet savu programmatūru.",
+    "UPDATE_CHATWOOT": "Ir pieejams Chatwoot %{latestChatwootVersion} jauninājums. Lūdzu, atjauniniet savu programmatūru.",
     "LEARN_MORE": "Uzzināt vairāk",
-    "PAYMENT_PENDING": "Jūsu maksājums tiek gaidīts. Lūdzu, atjauniniet savu maksājumu informāciju, lai turpinātu lietot Mokhatbat",
-    "LIMITS_UPGRADE": "Jūsu konts ir pārsniedzis lietošanas ierobežojumus. Lūdzu, uzlabojiet savu abonementu, lai turpinātu izmantot Mokhatbat",
+    "PAYMENT_PENDING": "Jūsu maksājums tiek gaidīts. Lūdzu, atjauniniet savu maksājumu informāciju, lai turpinātu lietot Chatwoot",
+    "LIMITS_UPGRADE": "Jūsu konts ir pārsniedzis lietošanas ierobežojumus. Lūdzu, uzlabojiet savu abonementu, lai turpinātu izmantot Chatwoot",
     "OPEN_BILLING": "Atvērt norēķinus"
   },
   "FORMS": {
@@ -92,7 +92,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Atvienots no Mokhatbat"
+      "OFFLINE": "Bezsaistē"
     },
     "BUTTON": {
       "REFRESH": "Atjaunot"
@@ -112,7 +112,8 @@
       "REMOVE_LABEL": "Noņemt etiķeti no sarunas",
       "SETTINGS": "Iestatījumi",
       "AI_ASSIST": "AI Palīgs",
-      "APPEARANCE": "Izskats"
+      "APPEARANCE": "Izskats",
+      "SNOOZE_NOTIFICATION": "Atlikt Paziņojumu"
     },
     "COMMANDS": {
       "GO_TO_CONVERSATION_DASHBOARD": "Doties uz Sarunu Informācijas Paneli",
@@ -153,7 +154,8 @@
       "CHANGE_APPEARANCE": "Mainīt Izskatu",
       "LIGHT_MODE": "Gaišs",
       "DARK_MODE": "Tumšs",
-      "SYSTEM_MODE": "Sistēma"
+      "SYSTEM_MODE": "Sistēma",
+      "SNOOZE_NOTIFICATION": "Atlikt Paziņojumu"
     }
   },
   "DASHBOARD_APPS": {

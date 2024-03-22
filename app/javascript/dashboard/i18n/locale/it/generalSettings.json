@@ -48,10 +48,10 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Puoi ricevere email nel tuo dominio personalizzato ora."
       }
     },
-    "UPDATE_CHATWOOT": "È disponibile un aggiornamento %{latestChatwootVersion} per Mokhatbat. Aggiorna la tua istanza.",
+    "UPDATE_CHATWOOT": "È disponibile un aggiornamento %{latestChatwootVersion} per Chatwoot. Aggiorna la tua istanza.",
     "LEARN_MORE": "Scopri di più",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
     "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
@@ -92,7 +92,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Disconnesso da Mokhatbat"
+      "OFFLINE": "Offline"
     },
     "BUTTON": {
       "REFRESH": "Aggiorna"
@@ -112,7 +112,8 @@
       "REMOVE_LABEL": "Rimuovi etichetta dalla conversazione",
       "SETTINGS": "Impostazioni",
       "AI_ASSIST": "AI Assist",
-      "APPEARANCE": "Appearance"
+      "APPEARANCE": "Appearance",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     },
     "COMMANDS": {
       "GO_TO_CONVERSATION_DASHBOARD": "Vai alla dashboard Conversazioni",
@@ -153,7 +154,8 @@
       "CHANGE_APPEARANCE": "Change Appearance",
       "LIGHT_MODE": "Light",
       "DARK_MODE": "Dark",
-      "SYSTEM_MODE": "System"
+      "SYSTEM_MODE": "System",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     }
   },
   "DASHBOARD_APPS": {

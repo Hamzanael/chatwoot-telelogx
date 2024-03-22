@@ -48,10 +48,10 @@
         "CUSTOM_EMAIL_DOMAIN_ENABLED": "Nyní můžete přijímat e-maily na vaši vlastní doménu."
       }
     },
-    "UPDATE_CHATWOOT": "Je dostupná aktualizace %{latestChatwootVersion} pro Mokhatbat. Aktualizujte prosím svou instanci.",
+    "UPDATE_CHATWOOT": "Je dostupná aktualizace %{latestChatwootVersion} pro Chatwoot. Aktualizujte prosím svou instanci.",
     "LEARN_MORE": "Learn more",
-    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Mokhatbat",
-    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Mokhatbat",
+    "PAYMENT_PENDING": "Your payment is pending. Please update your payment information to continue using Chatwoot",
+    "LIMITS_UPGRADE": "Your account has exceeded the usage limits, please upgrade your plan to continue using Chatwoot",
     "OPEN_BILLING": "Open billing"
   },
   "FORMS": {
@@ -92,7 +92,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Disconnected from Mokhatbat"
+      "OFFLINE": "Offline"
     },
     "BUTTON": {
       "REFRESH": "Refresh"
@@ -112,7 +112,8 @@
       "REMOVE_LABEL": "Remove label from the conversation",
       "SETTINGS": "Nastavení",
       "AI_ASSIST": "AI Assist",
-      "APPEARANCE": "Appearance"
+      "APPEARANCE": "Appearance",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     },
     "COMMANDS": {
       "GO_TO_CONVERSATION_DASHBOARD": "Go to Conversation Dashboard",
@@ -153,7 +154,8 @@
       "CHANGE_APPEARANCE": "Change Appearance",
       "LIGHT_MODE": "Light",
       "DARK_MODE": "Dark",
-      "SYSTEM_MODE": "System"
+      "SYSTEM_MODE": "System",
+      "SNOOZE_NOTIFICATION": "Snooze Notification"
     }
   },
   "DASHBOARD_APPS": {
